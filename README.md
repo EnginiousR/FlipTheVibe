@@ -1,4 +1,4 @@
-#🎉 FlipTheVibe - Interactive Surprise Web Project
+🎉 FlipTheVibe - Interactive Surprise Web Project
 
 This repository contains a two-page interactive web experience developed as part of a task for the **SmartMethods 💻 training program**. The project demonstrates both professional layout skills and creative design thinking.
 
